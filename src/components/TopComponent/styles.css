@@ -1,8 +1,10 @@
 .topComponentContainer {
   background-image: url("src/assets/trees.png");
+  background-repeat: no-repeat;
   background-color: #699029;
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 .navContainer {

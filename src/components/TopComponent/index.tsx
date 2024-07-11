@@ -5,9 +5,9 @@ function TopComponent () {
     <div className='topComponentContainer'>
       <div className='navContainer'>
         <div className='navContainerSocial'>
-          <a href="https://web.telegram.org/k/"><img src="src/assets/telegram.png" alt="telega" className='linkButton' /></a>
-          <a href="https://www.instagram.com/"><img src="src/assets/instagram.png" alt="inst" className='linkButton'/></a>
-          <a href="https://x.com/"><img src="src/assets/x.png" alt="x" className='linkButton'/></a>
+          <a href="https://web.telegram.org/k/"><img src="../assets/telegram.png" alt="telega" className='linkButton' /></a>
+          <a href="https://www.instagram.com/"><img src="../assets/instagram.png" alt="inst" className='linkButton'/></a>
+          <a href="https://x.com/"><img src="../assets/x.png" alt="x" className='linkButton'/></a>
         </div>
         <button className='navContainerButton'>meng laboratory</button>
       </div>
