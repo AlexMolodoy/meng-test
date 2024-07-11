@@ -1,5 +1,6 @@
 .topComponentContainer {
-  background-image: url("src/assets/trees.png");
+  background-image: url("/assets/trees.png");
+  background-position: center center;
   background-repeat: no-repeat;
   background-color: #699029;
   display: flex;
